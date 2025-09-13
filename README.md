@@ -40,7 +40,7 @@ This project demonstrates fundamental Python concepts, including OOP (object-ori
 
 ---
 
-## 🛠️ Project Structure
+## 📂 Project Structure
 snake-game/
 │── main.py          # Game loop and main execution
 │── snake.py         # Snake class
@@ -50,7 +50,7 @@ snake-game/
 
 ---
 
-## 🛠️ Screenshot
+## 📸 Screenshot
 <img width="607" height="632" alt="Capture0" src="https://github.com/user-attachments/assets/002d66b5-2b7f-4546-84e9-6580169343a1" />
 
 <img width="614" height="635" alt="Capture01" src="https://github.com/user-attachments/assets/67183ccc-2b47-4547-888c-ee0b798206e6" />
