@@ -31,6 +31,7 @@ class Scoreboard(Turtle):
     def game_over(self):
         self.goto(0, 0)
         if self.is_hit_score():
-            self.write(f"You hit the highest score 🥳\nNew highest score: {self.score}", align=ALIGNMENT, font=FONT)
+            self.write(f"You hit the highest score \nNew highest score: {self.score}", align=ALIGNMENT, font=FONT)
         else:
+
             self.write(f"Game Over", align=ALIGNMENT, font=FONT)
