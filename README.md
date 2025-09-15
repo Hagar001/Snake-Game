@@ -32,8 +32,8 @@ This project demonstrates fundamental Python concepts, including OOP (object-ori
 ## ▶️ Run the Game  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Hagar001/snake-game.git
-   cd snake-game
+   git clone https://github.com/Hagar001/Snake-Game.git
+   cd Snake-Game
 
 2. Run the script
    python main.py
